@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="neoxzim.com.neoxznativeimagereader"
+    android:versionCode="40"
+    android:versionName="4.0" >
+    <uses-permission android:name="android.permission.INTERNET" />
+
+</manifest>
